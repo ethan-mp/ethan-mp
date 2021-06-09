@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonTest.cs" Line="10" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dfc5f823-c5e9-47df-bb04-9a1671e42eee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
